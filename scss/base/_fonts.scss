@@ -1,0 +1,32 @@
+// -----------------------------------------------------------------------------
+// This file contains all @font-face declarations, if any.
+// -----------------------------------------------------------------------------
+
+// English
+$ltr-fonts:OpenSans-Bold "OpenSans-Bold" 600,
+OpenSans-Light "OpenSans-Light" 300,
+OpenSans-Medium "OpenSans-Medium" 500,
+OpenSans-Regular "OpenSans-Regular" normal,
+OpenSans-SemiBold "OpenSans-SemiBold" 600,
+Oswald-Regular "Oswald-Regular" normal,
+Oswald-Bold "Oswald-Bold" 900,
+Oswald-Medium "Oswald-Medium" 500,
+Oswald-Light "Oswald-Light" 300;
+$ltr-fonts-ext: woff woff2;
+$ltr-fonts-folder: "OpenSans";
+$ltr-font-family-base:"OpenSans-Regular";
+
+
+$rtl-fonts: OpenSans-Bold "Open Sans-Bold" 900,
+OpenSans-BoldItalic "OpenSans-BoldItalic" bold,
+OpenSans-Light "OpenSans-Light" 300,
+OpenSans-Medium "OpenSans-Medium" 500,
+OpenSans-Regular "OpenSans-Regular" normal,
+OpenSans-SemiBold "OpenSans-SemiBold" 600,
+Oswald-Regular "Oswald-Regular" normal,
+Oswald-Bold "Oswald-Bold" 900,
+Oswald-Medium "Oswald-Medium" 500,
+Oswald-Light "Oswald-Light" 300;
+$ltr-fonts-ext: woff woff2;
+$ltr-fonts-folder: "OpenSans";
+$ltr-font-family-base:"OpenSans-Regular";
